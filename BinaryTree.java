@@ -89,8 +89,6 @@ public class BinaryTree {
         return root;
     }
 
-    public Node getRoot(){
-        return root;
-    }
+
 
 }
